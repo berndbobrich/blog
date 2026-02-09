@@ -43,3 +43,11 @@ It is really pleasant and entertaining to follow his deep dives and explanations
 [His Channel](https://www.youtube.com/@AndrejKarpathy)
 
 I would start with this video: [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)
+
+### Checker Welt
+
+If you and/or your Kids understand german, this is the right place for Kids to learn something about AI themselves. It doesn't go to deep into the current LLM/Agent hype and seems almost timeless. 
+
+[Der Künstliche Intelligenz-Check](https://www.youtube.com/watch?v=Z2E85FesiiQ)
+
+
