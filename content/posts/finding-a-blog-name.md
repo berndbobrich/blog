@@ -1,6 +1,6 @@
 +++
 date = '2026-02-06T15:46:12+01:00'
-draft = false
+draft = true
 title = 'Finding a blog name'
 +++
 
