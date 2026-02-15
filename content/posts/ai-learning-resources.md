@@ -12,7 +12,8 @@ It seemed that everyone in the group has a more or less well working mental mode
 
 One set of questions popped up that somehow challenged our approach so far:  Are we actually able to explain to our kids how AI works? How well do our mental models about AI and LLMs really work? Will we be able to keep up with the rapid developments in the field? How often will we invest time to wade through explainer videos on youtube to understand new developments? 
 
-At the same time: Will this be really necessary? There have been other - sometimes disruptive - everyday systems which are not meant to be understood by non-expert users: computers, car engines, financial systems - including money, our stereo system or TV. 
+At the same time: Will this be really necessary? There have been other - sometimes disruptive - everyday systems which are not meant to be understood by non-expert users: computers, car engines, financial systems - including money, our stereo system or TV. Kids proved to be "native" adopters of all of these things. There was never a need to eplain the 5 year old how the iPad works. 
+That being said, I doubt that kids will really come asking for explanations how AI actually works. I think it's rather our responsibilty as parents to maintain at least a basic level of AI literacy and empower our kids to responsibly use AI to their advantage. 
 
 We ended up with the idea that I would at least collect a list of not too hard to digest explainer videos and go-to places to reduce the suffering in case we wanted to look inside the enclosure. 
 
@@ -38,15 +39,15 @@ Company founded by Andrew Ng. Lots of free courses. Provides opportunities to di
 
 ### Andrej Karpathy
 
-It is really pleasant and entertaining to follow his deep dives and explanations. Andrej is a former OpenAI employee. In his videos he talks about ChatGPT inner workings and he builds software on the go, and the viewer can play along. 
+It is really pleasant and entertaining to follow his deep dives and explanations. Andrej is a  OpenAI employee. In his videos he talks about ChatGPT inner workings and he builds software on the go, and the viewer can play along. 
 
 [His Channel](https://www.youtube.com/@AndrejKarpathy)
 
 I would start with this video: [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 
-### Checker Welt
+### Checker Welt (german)
 
-If you and/or your Kids understand german, this is the right place for Kids to learn something about AI themselves. It doesn't go to deep into the current LLM/Agent hype and seems almost timeless. 
+If you and/or your kids understand german, this is the right place for kids to learn something about AI themselves. It doesn't go to deep into the current LLM/Agent hype and seems almost timeless. Unfortunately, the content of the english videos I came across delivered rather shallow content. 
 
 [Der Künstliche Intelligenz-Check](https://www.youtube.com/watch?v=Z2E85FesiiQ)
 

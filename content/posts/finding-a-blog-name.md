@@ -4,9 +4,19 @@ draft = true
 title = 'Finding a blog name'
 +++
 
-brabbel.io
-loosely-coupled.io
-somewhat-idempotent.io
 probably-sentient.io 
+probably-biased.io
+probably-overthinking.io
 stochastic-thoughts.io
 commander-data.io
+still-compiling.io
+perpetually-debugging.io
+endlessly-refactoring.io
+
+
+still-compiling.it
+34/99 Jahr
+
+
+stochastic-thoughts.io
+40/99

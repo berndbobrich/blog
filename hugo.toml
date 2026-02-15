@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'http://stochastic-thoughts.io'
 languageCode = 'en-us'
-title = 'brabbel.io'
+title = 'stochastic thoughts'
 theme = 'PaperMod'
 
 [caches]
